@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAnimation</string>
+    <string name="main_label">Main</string>
+    <string name="title_activity_property_animation">PropertyAnimationActivity</string>
 </resources>

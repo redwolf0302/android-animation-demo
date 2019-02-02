@@ -1,4 +1,4 @@
-package com.ej_cafe.android.demo;
+package com.ejcafe.android.demo;
 
 import org.junit.Test;
 

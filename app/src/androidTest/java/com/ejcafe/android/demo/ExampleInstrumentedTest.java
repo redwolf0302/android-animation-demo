@@ -1,4 +1,4 @@
-package com.ej_cafe.android.demo;
+package com.ejcafe.android.demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
