@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的动画</string>
+    <string name="main_label">首页</string>
+    <string name="title_activity_property_animation">属性动画</string>
+    <string name="title_activity_animate_drawable">图形动画</string>
+</resources>

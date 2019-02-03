@@ -10,6 +10,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.ejcafe.android.demo.animate.AnimateDrawableActivity;
 import com.ejcafe.android.demo.animate.PropertyAnimationActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -34,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             if (text.equals("Property animation")) {
                 MainActivity.this.startActivity(new Intent(MainActivity.this, PropertyAnimationActivity.class));
             } else if (text.equals("Animate drawable graphics")) {
-
+                MainActivity.this.startActivity(new Intent(MainActivity.this, AnimateDrawableActivity.class));
             } else {
                 Toast.makeText(MainActivity.this, "Unknown Parameters", Toast.LENGTH_LONG).show();
             }
